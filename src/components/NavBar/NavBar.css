@@ -1,0 +1,17 @@
+.navBar{
+    color: #fff;
+    background-color: indigo;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+    align-items: center;
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    list-style: none;  
+}
+.list li{
+    margin-left: 35px ;
+}

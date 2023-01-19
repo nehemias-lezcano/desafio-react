@@ -1,6 +1,6 @@
 .navBar{
     color: #fff;
-    background-color: red;
+    background-color: purple;
     display: flex;
     flex-direction: row;
     justify-content: space-around ;
